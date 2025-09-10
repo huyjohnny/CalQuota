@@ -1,2 +1,2 @@
 # CalQuota
-A simple calorie counting app build in Swift 
+A simple calorie counting app built in Swift 
